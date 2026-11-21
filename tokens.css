@@ -1,0 +1,43 @@
+/* Generated from tokens.json by build.mjs: edit tokens.json, then run it. */
+:root {
+  --tnt-accent: #4A9A8A;
+  --tnt-accent-dark: #357A6B;
+  --tnt-accent-darker: #24574C;
+  --tnt-accent-light: #E8F5F2;
+  --tnt-bg: #FFFFFF;
+  --tnt-bg-secondary: #F8FAFB;
+  --tnt-bg-tertiary: #F0F4F3;
+  --tnt-text: #1C1D21;
+  --tnt-text-secondary: #4A4B52;
+  --tnt-text-muted: #656975;
+  --tnt-line: #D5DCDA;
+  --tnt-danger: #B42318;
+  --tnt-logo-ink: #222333;
+  --tnt-logo-green: #6ABFAD;
+  --tnt-category-design: #E91E8C;
+  --tnt-category-front: #0066FF;
+  --tnt-category-backend: #1E3A5F;
+  --tnt-category-iot: #00A676;
+  --tnt-category-archi: #E84D2E;
+  --tnt-category-tools: #FF8C00;
+  --tnt-category-human: #8B5CF6;
+  --tnt-category-ai: #6366F1;
+  --tnt-category-alien: #14B8A6;
+  --tnt-font-display: 'Outfit', sans-serif;
+  --tnt-font-body: 'Plus Jakarta Sans', sans-serif;
+  --tnt-radius-sm: 8px;
+  --tnt-radius-md: 12px;
+  --tnt-radius-lg: 16px;
+  --tnt-radius-xl: 20px;
+  --tnt-radius-2xl: 24px;
+  --tnt-space-xs: 4px;
+  --tnt-space-sm: 8px;
+  --tnt-space-md: 16px;
+  --tnt-space-lg: 24px;
+  --tnt-space-xl: 32px;
+  --tnt-space-2xl: 48px;
+  --tnt-shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.04);
+  --tnt-shadow-md: 0 4px 20px rgba(0, 0, 0, 0.06);
+  --tnt-shadow-lg: 0 8px 40px rgba(0, 0, 0, 0.08);
+  --tnt-shadow-accent: 0 4px 20px rgba(74, 154, 138, 0.25);
+}

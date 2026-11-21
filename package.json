@@ -1,0 +1,37 @@
+{
+  "name": "@touraine-tech/brand",
+  "version": "0.1.0",
+  "description": "Touraine Tech's colours, fonts, sizes and logos, shared by the website, the admin, scan-participant and the app",
+  "license": "MIT",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TouraineTech/brand.git"
+  },
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node --test"
+  },
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    },
+    "./tokens.css": "./tokens.css",
+    "./tokens.json": "./tokens.json",
+    "./logo.svg": "./assets/logo.svg",
+    "./icon.svg": "./assets/icon.svg"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "tokens.css",
+    "tokens.json",
+    "assets",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  }
+}
