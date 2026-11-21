@@ -24,3 +24,7 @@ The logo and the icon (which follows the dark mode) are `@touraine-tech/brand/lo
 2. Raise `version` in `package.json` and merge.
 3. Tag `v<version>` on `main`: the Publish workflow puts it on npm.
 4. Bump the package in the projects that use it.
+
+## License
+
+The code and the tokens are under the MIT License. The Touraine Tech logo and icon are not: you may use them as they are, but not modify them. See [LICENSE](./LICENSE).
