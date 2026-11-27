@@ -1,6 +1,6 @@
 {
   "name": "@touraine-tech/brand",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Touraine Tech's colours, fonts, sizes and logos, shared by the website, the admin, scan-participant and the app",
   "license": "SEE LICENSE IN LICENSE",
   "type": "module",
