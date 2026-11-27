@@ -23,8 +23,8 @@ export declare const categoryColors: {
   readonly "iot": "#00A676";
   readonly "archi": "#E84D2E";
   readonly "tools": "#FF8C00";
-  readonly "human": "#8B5CF6";
-  readonly "ai": "#6366F1";
+  readonly "human": "#BE185D";
+  readonly "ai": "#A855F7";
   readonly "alien": "#14B8A6";
 };
 

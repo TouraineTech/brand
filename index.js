@@ -23,8 +23,8 @@ export const categoryColors = {
   "iot": "#00A676",
   "archi": "#E84D2E",
   "tools": "#FF8C00",
-  "human": "#8B5CF6",
-  "ai": "#6366F1",
+  "human": "#BE185D",
+  "ai": "#A855F7",
   "alien": "#14B8A6"
 };
 
